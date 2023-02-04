@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "setup",
+			"path": "F:/Website/javascript-basic-projects-master/02-counter/setup"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "laptop-ui-master"
+	}
+}
